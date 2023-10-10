@@ -9,6 +9,6 @@ This repository contains the code for the tutorials that I've learnt from freeco
 This repository contains three projects folders that were used in this tutorial (I've made some changes to the deprecated code):
 Folder | Description |
 --- | --- | 
-`Vue3-Basics`  | A simple login form implemented using Vue.JS|
+`vue3-basics`  | A simple login form implemented using Vue.JS|
 `vue3-fcc-course-basic-product-cart-demo` | A simple product cart implemented using Vue.JS in HTML files. | 
 `product-and-cart-vue-cli` | The same product cart demo implemented using Vue CLI. | 
